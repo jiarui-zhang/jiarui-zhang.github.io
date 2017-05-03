@@ -1695,7 +1695,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9c98c4;
+  background: #7f81ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2868,4 +2868,7 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
+}
+body {
+  background: url("/Users/Romeliet/Documents/Hexo/myblog/themes/next/source/images/background.jpg");
 }
